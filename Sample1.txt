@@ -1,1 +1,3 @@
 Dummy_password_123 = 'kdae3r0ksdfed'
+
+New line
